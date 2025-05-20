@@ -19,6 +19,8 @@ I’m a graduate with a Bachelor's degree in IT and am currently studying nursin
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="22" style="margin:2px"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="22" style="margin:2px"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="22" style="margin:2px"/>
 </span>
 
 ✨ CMS & Page Builders:&nbsp;
