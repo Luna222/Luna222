@@ -7,7 +7,7 @@ I’m a graduate with a Bachelor's degree in IT and am currently studying nursin
 - - - -
 ### 👩‍💻 Tech stacks (hopefully, more can be added in the future. ^^)
 
-✨Languages & Tools:&nbsp;
+✨ Languages & Tools:&nbsp;
 <span>
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22" style="margin:2px"/>
@@ -21,7 +21,7 @@ I’m a graduate with a Bachelor's degree in IT and am currently studying nursin
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="22" style="margin:2px"/>
 </span>
 
-✨CMS & Page Builders:&nbsp;
+✨ CMS & Page Builders:&nbsp;
 <span>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="22" style="margin:2px"/>
