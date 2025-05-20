@@ -5,9 +5,10 @@
 I’m a graduate with a Bachelor's degree in IT and am currently studying nursing, exploring how technology and healthcare can come together to improve lives. Guided by curiosity and compassion, I’m learning to approach challenges from both technical and human perspectives. I’m drawn to the path of a generalist—someone who bridges the gap between healthcare and technology, helps build better systems, and supports the development of intelligent, meaningful AI models grounded in real-world insight and empathy that truly reflect people’s needs. 🌱🌷🩹🧷🦋;
 
 - - - -
-### 👩‍💻 Languages & Tools (hopefully, more can be added in the future. ^^)
+### 👩‍💻 Tech stacks (hopefully, more can be added in the future. ^^)
 
-<p>
+✨Languages & Tools:&nbsp;
+<span>
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" height="22" style="margin:2px"/>
@@ -18,7 +19,15 @@ I’m a graduate with a Bachelor's degree in IT and am currently studying nursin
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="22" style="margin:2px"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="22" style="margin:2px"/>
-</p>
+</span>
+
+✨CMS & Page Builders:&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="22" style="margin:2px"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="22" style="margin:2px"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" height="22" style="margin:2px"/>
+  <img src="https://img.shields.io/badge/EComposer-2B2E4A?style=for-the-badge&logo=shopify&logoColor=white" height="22" style="margin:2px;color:2B2E4A"/>
+</span>
 
 <!--
 **Luna222/Luna222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
