@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/654358461383049271/1374368358727680001/image.png?ex=682dcbc7&is=682c7a47&hm=674b30995ed80cb15fe574ce79c0e843aafad2177210442cf4643c078b1cd151&=&format=webp&quality=lossless&width=1178&height=662" alt="banner" style="width:100%; height:auto; border-radius:12px;" />
 
 - - - -
-I'm a graduate with a Bachelor's degree in IT and am currently studying nursing, exploring how technology and healthcare can come together to improve lives. Guided by curiosity and compassion, I’m learning to approach challenges from both technical and human perspectives. I’m drawn to the path of a generalist—someone who bridges the gap between healthcare and technology, contributes to building better systems, and supports the development of intelligent, meaningful AI grounded in real-world insight and empathy that truly reflects people’s needs. 🌱🌷🩹🧷🦋;
+I’m a graduate with a Bachelor's degree in IT and am currently studying nursing, exploring how technology and healthcare can come together to improve lives. Guided by curiosity and compassion, I’m learning to approach challenges from both technical and human perspectives. I’m drawn to the path of a generalist—someone who bridges the gap between healthcare and technology, helps build better systems, and supports the development of intelligent, meaningful AI models grounded in real-world insight and empathy that truly reflect people’s needs. 🌱🌷🩹🧷🦋;
 
 - - - -
 ### 👩‍💻 Languages & Tools (hopefully, more can be added in the future. ^^)
