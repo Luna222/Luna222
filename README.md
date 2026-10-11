@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/0pPQ5qwp/chill.webp" alt="banner" style="width:100%; height:auto; border-radius:12px;" />
 
 - - - -
-I’m a graduate with a Bachelor's degree in IT and am currently studying nursing, exploring how technology and healthcare can come together to improve lives. Guided by curiosity and compassion, I’m learning to approach challenges from both technical and human perspectives. I’m drawn to the path of a generalist—someone who bridges the gap between healthcare and technology, helps build better systems, and supports the development of intelligent, meaningful AI models grounded in real-world insight and empathy that truly reflect people’s needs. 🌱🌷🩹🧷🦋;
+An IT-trained developer with a unique perspective from healthcare. 🌱🌷🩹🧷🦋;
 
 - - - -
 ### 👩‍💻 Tech stacks (hopefully, more can be added in the future. ^^)
